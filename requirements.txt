@@ -1,0 +1,11 @@
+# Dependencies we used in this experiment
+# These libraries are required to run the code in this repository.
+
+pandas==1.3.5          # Data manipulation and analysis
+numpy==1.21.4          # Numerical computing
+matplotlib==3.5.1      # Visualization library
+seaborn==0.11.2        # Statistical data visualization
+scikit-learn==1.0.1    # Machine learning library
+xgboost==1.5.0         # Gradient boosting for machine learning
+imbalanced-learn==0.8.1 # Handling imbalanced datasets
+scipy==1.7.3           # Scientific computing
