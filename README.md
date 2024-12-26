@@ -2,7 +2,7 @@
 # AIDS Virus Infection Prediction Using Machine Learning Metrics
 
 ## Overview
-This repository contains the core experiment code for the research paper titled "F1, MCC, and AUC-ROC through the Lens of Machine Learning, Statistics, and XAI: Optimal Performance Metric Selection for Health Data Mining"**. The study uses machine learning models to predict the likelihood of AIDS virus infection based on various clinical and demographic features.
+This repository contains the core experiment code for our research paper titled "F1, MCC, and AUC-ROC through the Lens of Machine Learning, Statistics, and XAI: Optimal Performance Metric Selection for Health Data Mining"**.  Our primary goal was to select the optimal performance metric for the health data mining. we conducted various tests to validate our hypothesis in this research. The study uses machine learning models to predict the likelihood of AIDS virus infection based on various clinical and demographic features.
 
 ## Dataset
 We used the "AIDS Virus Infection Prediction Dataset" by A. Velu (2023), which was collected from Kaggle. This dataset contains the following features:
@@ -35,6 +35,8 @@ The target variable is **infected**, which indicates whether an individual is in
 ### Note:
 The dataset is not included in this repository as the dataset is publicly available . You can download the dataset from Kaggle at : https://www.kaggle.com/datasets/aadarshvelu/aids-virus-infection-prediction 
 
+##Citation
+If you use this  experiment in your research, please cite our paper
  
 
 ## Contents
